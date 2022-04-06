@@ -8,6 +8,16 @@ My data ethics follow the theme of data transperancy. This idea stems mainly fro
 
 ## Reading Discussion
 
-_Provide a short summary of the primary principle of each reading we completed in class. This summary should be in your style and what you gleaned._
+### Scientists Are Just as Confused About the Ethics of Big-Data Research as You 
+
+This article talks about the difficulty of evaluating data ethics in a company. One of the biggest challenges to defining what is ethical in the data world is deciding who decides what is ethical and not. For the longest time, data ethics were determined by people that have no training or education in ethics. The question must be asked, who is the best person to decide data ethics, domain eperts or eticists? 
+
+### On the Ethics of Web Scraping and Data Journalism
+
+This article talks about the ethics of web scraping. One of the biggest ideas explained in this article is that with regards to web scraping it makes no difference if 1000 people manually gather data off or website or one person builds a web scraper to automate the process. The article also talks about the need to identify yourself in a web scraping scripts.
+
+
+
+
 
 ## References
