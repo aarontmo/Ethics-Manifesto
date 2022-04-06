@@ -29,8 +29,8 @@ This
 
 ## References
 
-https://www.wired.com/2016/05/scientists-just-confused-ethics-big-data-research/
-https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/
-https://www.wsj.com/articles/the-facebook-files-11631713039
+- https://www.wired.com/2016/05/scientists-just-confused-ethics-big-data-research/
+- https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/
+- https://www.wsj.com/articles/the-facebook-files-11631713039
 
 
