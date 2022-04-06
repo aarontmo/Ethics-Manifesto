@@ -1,10 +1,10 @@
 # Ethics manifesto 
 
-_Use this template repo to create your ethics manifesto. You will submit a link to this repo in canvas. Please name the repo `ethics_[LASTNAME]_[FIRSTNAME]`.
+
 
 ## My Ethical Principles
 
-_Think of this like your data science ten commandments with respect to ethically using data and data science tools._
+My data ethics follow the theme of data transperancy. This idea stems mainly from facebook files that we listened to in class. 
 
 ## Reading Discussion
 
