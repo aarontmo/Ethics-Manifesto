@@ -34,7 +34,15 @@ This article had us play a game that made us make a decision who to kill assumin
 
 ### The Future History of Data Engineering
 
+This article about the versatility of data scientists and whether data professionals should specialize in one area of data, such as data engineers or if they should be more versatile have a broad understanding of all data fields with the ability to learn more of one area if a job requires it. 
 
+### Data Science Job-Seeking Ddvice to My Younger Self
+
+This reading talks about some of the things we should keep in mind when searching for and applying for data jobs. One of my favorite ideas from this article is that one of the most important factors when considering a job is the work place environment. If the work environment is toxic than you will not enjoy your work which will ultimately affect the quality of your work.
+
+### What Happens When We Let Industry and Government Collect All the Data They Want
+
+This article talks about the dangers of letting big government collect all the data they want without having any restrictions. The underground railroad was discussed as an example of something that might not have been possible if the government was able to collect data as they are now.
 
 
 
@@ -47,6 +55,8 @@ This article had us play a game that made us make a decision who to kill assumin
 - https://hbr.org/2013/04/the-hidden-biases-in-big-data
 - http://moralmachine.mit.edu/
 - https://groupby1.substack.com/p/data-engineering?utm_source=url
+- https://towardsdatascience.com/data-science-job-seeking-advice-to-my-younger-self-7be10a601030
+- https://slate.com/technology/2014/11/big-data-underground-railroad-history-says-unfettered-collection-of-data-is-a-bad-idea.html
 
 
 
